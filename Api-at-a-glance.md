@@ -6,8 +6,6 @@
 Register now for access: https://www.careeronestop.org/Developers/WebAPI/registration.aspx
 
 
-<div title="Web API at a Glance"  style="font-size: 20px; ">Web API at a Glance</div>
-
 
 ## [American Job Centers List](https://www.careeronestop.org/Developers/WebAPI/AmericanJobCentersList/get-ajc-details-by-id.aspx)
 
