@@ -3,7 +3,7 @@
 
 *Please note that the details of our API change from time to time and we recommend you review the documentation regularly
 
-Register now for access: https://www.careeronestop.org/Developers/WebAPI/registration.aspx
+<a href="https://www.careeronestop.org/Developers/WebAPI/registration.aspx">Register now for access</a> 
 
 
 
