@@ -4,5 +4,5 @@ www.CareerOneStop.org offers a wide range of career, employment and education da
 
 <a href="https://www.careeronestop.org/Developers/WebAPI/registration.aspx "> Register now to gain access.</a> 
 
-*   [What's Available] <a href="https://www.careeronestop.org/Developers/WebAPI/whats-available.aspx"> Register now to gain access.</a> "> Register now to gain access.</a>
-*   [API Technical Information] <a href="https://www.careeronestop.org/Developers/WebAPI/technical-information.aspx"> Register now to gain access.</a>
+*   [What's Available] <a href="https://www.careeronestop.org/Developers/WebAPI/whats-available.aspx"> .</a>
+*   [API Technical Information] <a href="https://www.careeronestop.org/Developers/WebAPI/technical-information.aspx"> .</a>
